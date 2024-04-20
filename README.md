@@ -8,4 +8,4 @@ O site está hospedado no Vercel. Você pode acessá-lo clicando [aqui](https://
 
 ## Descrição
 
-Este projeto foi desenvolvido utilizando HTML e CSS.
+Este projeto foi desenvolvido utilizando HTML5 e CSS3.
