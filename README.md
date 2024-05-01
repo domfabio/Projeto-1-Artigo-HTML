@@ -1,4 +1,4 @@
-# Projeto 1 Artigo HTML
+# Projeto 1 Artigo HTML 📑
 Este é o meu primeiro projeto que fiz para demonstrar minhas habilidades em desenvolvimento web no Curso 
 de Desenvolvimento de Layout em Front-end da Mentorama.
 
@@ -10,7 +10,7 @@ A proposta da tarefa foi desenvolver uma versão adaptada de um artigo contempla
 <br/>
 
 ## 📸 Screenshots
-![Captura de tela](./screen/screen-artigo.png.png)
+![Captura de tela](./screen/screen-artigo.png)
 
 <br/>
   
