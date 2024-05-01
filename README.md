@@ -1,11 +1,32 @@
 # Projeto 1 Artigo HTML
+Este é o meu primeiro projeto que fiz para demonstrar minhas habilidades em desenvolvimento web no Curso 
+de Desenvolvimento de Layout em Front-end da Mentorama.
 
-Este é o meu primeiro projeto que fiz para demonstrar minhas habilidades em desenvolvimento web.
+<br/>
 
-## Acesso ao Site
+## 👨🏾‍💻 Desafio do Projeto
+A proposta da tarefa foi desenvolver uma versão adaptada de um artigo contemplando uma introdução ao HTML e CSS.
 
-O site está hospedado no Vercel. Você pode acessá-lo clicando [aqui](https://projeto-1-artigo-html.vercel.app/).
+<br/>
 
-## Descrição
+## 📸 Screenshots
+![Captura de tela](./screen/screen-artigo.png.png)
 
-Este projeto foi desenvolvido utilizando HTML5 e CSS3.
+<br/>
+  
+## 🏆 Aprendizado 
+
+- HTML5
+- CSS3 Básico
+
+<br />
+
+## 🧠 Próximos Passos
+- Imergir nos estudos sobre HTML e CSS nas próximas tarefas do curso. 
+
+<br />
+
+## Acesso ao Projeto
+Este projeto está hospedado no Vercel. Você pode acessá-lo clicando [aqui](https://projeto-1-artigo-html.vercel.app/).
+
+
